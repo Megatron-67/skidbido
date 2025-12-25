@@ -1,6 +1,6 @@
 getgenv().Config = {
     Speed = 5,
-    Distance = 500,
+    Distance = 1000,
     Smoothness = 0.1,
     ResetTime = 1.5,
     Text = "Camlock"
